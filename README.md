@@ -21,7 +21,7 @@ What could be added is a description of the movies, but I'll leave that for late
  `Font Awasome`
 
 
------ **The features it has are:** -----
+------ **The features it has are:** ------
 -	Access
 -	Check in
 -	Recover password
